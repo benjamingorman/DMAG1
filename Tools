@@ -1,15 +1,19 @@
 This file contains all the tools people are using/ tools people suggest using
 
 Art/Animation:
+- PyxelEdit (http://pyxeledit.com/)
 
 
 
 
 Music/ Audio:
+- FL Studio (https://www.image-line.com/flstudio/)
+- bfxr (https://www.bfxr.net/)
 
 
 
 Game Engine/ Programing:
-
-
-
+- Love2D (lua) (https://love2d.org/)
+- Phaser (js) (https://phaser.io/)
+- Unity (C#) (https://unity3d.com/)
+- Defold (lua) (https://www.defold.com/)
